@@ -169,8 +169,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [stars-url]: https://github.com/fl4viooliveira/module1-challenge/stargazers
 [issues-shield]: https://img.shields.io/github/issues/fl4viooliveira/module1-challenge.svg?style=for-the-badge
 [issues-url]: https://github.com/fl4viooliveira/module1-challenge/issues
-[license-shield]: https://img.shields.io/github/license/fl4viooliveira/module1-challenge.svg?style=for-the-badge
 [license-url]: https://github.com/fl4viooliveira/module1-challenge/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/fl4viooliveira
 [product-screenshot]: ./screenshot.png
