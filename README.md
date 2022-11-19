@@ -1,84 +1,179 @@
-# Your Project Title
-
-## Description 
-
-Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
-
-The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
-
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
-
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? 
-
-Lastly, if your project is deployed, include a link to the deployed application here.
-
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a name="readme-top"></a>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
 
-## Table of Contents (Optional)
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-
-## Usage 
-
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://fl4viooliveira.github.io/module1-challenge">
+    <h1>Horiseon</h1>
+  </a>
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+  <h3 align="center">Horieson Social Solution Services</h3>
 
-If you followed tutorials, include links to those here as well.
+  <p align="center">
+    <a href="https://github.com/fl4viooliveira/module1-challenge/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://fl4viooliveira.github.io/module1-challenge">View Website</a>
+    ·
+    <a href="https://fl4viooliveira.github.io/module1-challenge/issues">Report Bug</a>
+  </p>
+</div>
 
 
-## License
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Horiseon Website Screenshot][product-screenshot]](https://fl4viooliveira.github.io/module1-challenge/)
+
+It's the Horiseon Website that is in use, as a Frontend Bootcamp challenge.
+On the challenge, the students have to refactor the code to achieve:
+* Proper HTML semantic elements 
+* Logical structure for the elements
+* `alt` attributes to Image elements
+* Heading attributes fall in sequential order
+* Title elements contain a concise, descriptive title. 
+
+### Built With
+
+This website was build using HTML and CSS.
+* [![made-with-html](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)](https://www.w3schools.com/html/html_intro.asp)
+* [![made-with-css](https://img.shields.io/badge/Made%20with-CSS-1f425f.svg)](https://www.w3schools.com/css/css_intro.asp)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
----
 
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+<!-- GETTING STARTED -->
+## Getting Started
 
-## Badges
+To get a local copy up and running follow these simple example steps.
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+### Prerequisites
 
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+`none`
+### Installation
 
-## Features
+_To install, on the terminal type:_
 
-If your project has a lot of features, consider adding a heading called "Features" and listing them there.
+   ```sh
+   git clone git@github.com:fl4viooliveira/module1-challenge.git 
+   ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 ## Contributing
 
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## Tests
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
----
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@fl4viooliveira](https://twitter.com/fl4viooliveira) 
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://fl4viooliveira.github.io/module1-challenge](https://fl4viooliveira.github.io/module1-challenge/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [Images alt attributes](https://www.w3schools.com/tags/att_img_alt.asp)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/fl4viooliveira/module1-challenge.svg?style=for-the-badge
+[contributors-url]: https://github.com/fl4viooliveira/module1-challenge/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fl4viooliveira/module1-challenge.svg?style=for-the-badge
+[forks-url]: https://github.com/fl4viooliveira/module1-challenge/network/members
+[stars-shield]: https://img.shields.io/github/stars/fl4viooliveira/module1-challenge.svg?style=for-the-badge
+[stars-url]: https://github.com/fl4viooliveira/module1-challenge/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fl4viooliveira/module1-challenge.svg?style=for-the-badge
+[issues-url]: https://github.com/fl4viooliveira/module1-challenge/issues
+[license-shield]: https://img.shields.io/github/license/fl4viooliveira/module1-challenge.svg?style=for-the-badge
+[license-url]: https://github.com/fl4viooliveira/module1-challenge/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/fl4viooliveira
+[product-screenshot]: ./screenshot.png
