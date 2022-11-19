@@ -143,14 +143,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@fl4viooliveira](https://twitter.com/fl4viooliveira) 
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Flavio - [@fl4viooliveira](https://twitter.com/fl4viooliveira) 
 Project Link: [https://fl4viooliveira.github.io/module1-challenge](https://fl4viooliveira.github.io/module1-challenge/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
